@@ -81,7 +81,7 @@ Exceções:
 - Em alguns casos extremos pode acumular a função de Garçom
 - Tem autonomia para gerenciar pequenos conflitos
 
-** Equipe de Limpeza **
+**Equipe de Limpeza**
 
 - Ajuda Limpar Cozinha
 - Limpa Salão
