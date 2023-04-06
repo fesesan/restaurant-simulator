@@ -6,9 +6,12 @@ A simple multithreaded Java project for expressing thread concepts
  - Prepara os Condimentos
  - Limpa a Cozinha
 
- - Recebe Pedidos (do Garçom ou Delivery)
+ - Recebe Pedidos (do Garçom ou Delivery):
+   1. Dois cozinheiros não podem pegar o mesmo Pedido
+   2. Se não tiver Pedidos aguarda ou adianta uma tarefa de limpeza
  - Prepara os Pedidos
-   -- Pode aguardar todos os pedidos de uma mesa está pronto para liberar
+   1. Pode preparar até 2 Pedidos ao mesmo tempo
+   2. Aguarda todos os pratos ficarem prontos para Liberar o Pedido
  - Notifica que Pedido Está Pronto
  
  Exceções:
