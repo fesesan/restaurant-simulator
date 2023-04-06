@@ -1,7 +1,7 @@
 # restaurant-simulator
 A simple multithreaded Java project for expressing thread concepts
 
-*Cozinheiro
+**Cozinheiro**
 
  - Prepara os Condimentos
  - Limpa a Cozinha
@@ -16,7 +16,7 @@ A simple multithreaded Java project for expressing thread concepts
  - Pode servir a mesa em algumas situações, logo, em casos extremos, acumula a função de garçom
  - Em alguns casos pode ir na mesa conversar com o cliente
  
-*Garçom
+**Garçom**
 
  - Atende o cliente na Mesa
  - Anota o Pedido
@@ -35,7 +35,7 @@ A simple multithreaded Java project for expressing thread concepts
  - Cliente com saldo insuficiente para pagamento
  - Cliente pode desistir do Pedido
 
-*Cliente
+**Cliente**
 
  - Ocupa uma Mesa
  - Faz o Pedido
@@ -43,7 +43,7 @@ A simple multithreaded Java project for expressing thread concepts
  - Faz o Pagamento
  - Vai embora
  
- Exceções:
+ **Exceções**:
  
  - Pode esperar tempo demais por uma mesa
  - Pode esperar tempo demais pelo Pedido
@@ -55,7 +55,7 @@ A simple multithreaded Java project for expressing thread concepts
  - Pode pedir para falar com o Cozinheiro
  - Pode pedir para falar com o Gerente
  
-*Gerente
+**Gerente**
 
 - Abre o Restaurante
 - Acompanha os setores do restaurante
@@ -69,7 +69,7 @@ Exceções:
 - Pode ter que abrir mesas extras
 - Pode chamar funcionários de última hora
 
-*Recepcionista
+**Recepcionista**
 
 - Faz reserva de Mesas
 - Recebe Pedidos do Delivery
