@@ -43,7 +43,7 @@ A simple multithreaded Java project for expressing thread concepts
  - Faz o Pagamento
  - Vai embora
  
- **Exceções**:
+ Exceções:
  
  - Pode esperar tempo demais por uma mesa
  - Pode esperar tempo demais pelo Pedido
